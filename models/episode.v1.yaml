@@ -1,0 +1,11 @@
+title: episode
+type: object
+x-tags:
+  - episode
+properties:
+  id:
+    type: string
+  title:
+    type: string
+  '':
+    type: string
